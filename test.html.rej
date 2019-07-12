@@ -1,0 +1,12 @@
+diff a/test.html b/test.html	(rejected hunks)
+@@ -24,7 +24,10 @@
+              <li>pull</li>
+              <li>push.testman</li>
+              <li>test</li>
+++<<<<<<< HEAD
+ +            <li>OMG</li>
+ +            <li>사이다</li>
+++=======
+++>>>>>>> parent of 77f4ac8... add OMG
+          </ul>
+      </body> 
